@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<div id="box2"></div>
+		<div id="box3">
+			<div id="write">
+				<div id="b"> 
+					<pre> CHILD
+ LABOUR</pre>
+				</div>
+			<pre>
+
+
+
+
+
+
+
+
+
+They get paid with the tears we shed..
+    ..We get no love or a bed
+       We need some help..
+   ..So someone help us please
+    HELP US get some dignity...
+..Have the courage to raise your voice
+       To help those in need..
+..Those whose voices are so shattered
+  And whose lungs cannot breathe..
+..We are sick of doing this everyday..
+			</pre>
+			</div>
+		</div>
+		<div id="b1"></div>
+		<div id="b2"></div>
+		<div id="b3"></div>
+		<div id="b4"></div>
+		<div id="b5"></div>
+		<div id="b6"></div>
+		<div id="b7"></div>
+		<div id="b8"></div>
+		<div id="b9"></div>
+		<div id="b10"></div>
+		<div id="b11"></div>
+		<div id="b12"></div>
+		<div id="b13"></div>
+		<div id="box1"> </div>
+	<style>
+		#b{	
+			width:60px;
+			height:10px;
+			color:#191970;
+			font-size:90px;
+			text-shadow:7px 7px blue;
+			font-weight:bold;
+			}
+		#write{
+			width:400px;
+			height:60px;
+			color:blue;
+			font-size:20px;
+			}
+		#box1{
+			width:420px;
+			height:630px;
+			border-radius:5%;
+			background-color:rgba(255,255,0,0.5);
+			}
+		#box2{
+			width:420px;
+			height:630px;
+			border-radius:5%;
+			margin:0px 0px 0px 870px;
+			position:absolute;
+			background-color:rgba(255,255,0,0.5);
+			}
+		#box3{
+			width:446px;
+			height:630px;
+			border-radius:5%;
+			margin-left:422px;
+			margin-top:0px;
+			position:absolute;
+			background-color:rgba(152,245,255,0.5);
+			}
+		#b1{
+			width:200px;
+			height:200px;
+			border-radius:35%;
+			display:inline-block;
+			margin-left:4px;
+			margin-top:10px;
+			position:absolute;
+			background-image:url("73.jpeg");
+			background-size:210px 210px;
+			box-shadow:10px 10px 10px #b8860b;
+			}
+		#b2{
+			width:200px;
+			height:200px;
+			border-radius:35%;
+			display:inline-block;
+			margin-left:4px;
+			margin-top:260px;
+			position:absolute;
+			background-image:url("72.jpeg");
+			background-size:210px 210px;
+			box-shadow:10px 10px 10px #b8860b;
+			}
+		#b3{
+			width:200px;
+			height:200px;
+			border-radius:35%;
+			display:inline-block;
+			margin-left:205px;
+			margin-top:140px;
+			position:absolute;
+			background-image:url("79.jpeg");
+			background-size:210px 210px;
+			box-shadow:10px 10px 10px #b8860b;
+			}
+		#b4{
+			width:200px;
+			height:200px;
+			border-radius:35%;
+			display:inline-block;
+			margin-left:205px;
+			margin-top:400px;
+			position:absolute;
+			background-image:url("78.jpeg");
+			background-size:210px 210px;
+			box-shadow:10px 10px 10px #b8860b;
+			}
+		#b5{
+			width:200px;
+			height:200px;
+			border-radius:35%;
+			display:inline-block;
+			margin-top:140px;
+			margin-left:1090px;
+			position:absolute;
+			background-image:url("69.jpeg");
+			background-size:210px 210px;
+			box-shadow:10px 10px 10px #b8860b;
+			}
+		#b6{
+			width:200px;
+			height:200px;
+			border-radius:35%;
+			display:inline-block;
+			margin-left:1090px;
+			margin-top:400px;
+			position:absolute;
+			background-image:url("76.jpeg");
+			background-size:210px 210px;
+			box-shadow:10px 10px 10px #b8860b;
+			}
+		#b7{
+			width:200px;
+			height:200px;
+			border-radius:35%;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:890px;
+			position:absolute;
+			background-image:url("77.jpeg");
+			background-size:210px 210px;
+			box-shadow:10px 10px 10px #b8860b;
+			}
+		#b8{
+			width:200px;
+			height:200px;
+			border-radius:35%;
+			display:inline-block;
+			margin-top:260px;
+			margin-left:890px;
+			position:absolute;
+			background-image:url("75.jpeg");
+			background-size:210px 210px;
+			box-shadow:10px 10px 10px #b8860b;
+			}
+		</style>
+	</body>
+</html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body background="60.jpeg">
+		<div id="sun" onmouseout="this.style.marginTop='135px';
+					documentgetElementById('rays').style.ShadowBox='20px';">
+		 </div>
+		<div id="text">
+			 <a href="p5.html">Blessings of GOD </a>
+		</div>
+		<div id="block" onmouseout="document.getElementById('pic').style.marginTop='350px';
+			        document.getElementById('pic1').style.marginTop='350px';
+				document.getElementById('pic2').style.marginTop='350px';
+				document.getElementById('pic3').style.marginTop='196px';
+				document.getElementById('pic4').style.marginTop='202px';">
+			<div id="pic"></div>
+			<div id="pic1"> </div>
+			<div id="pic2"> </div>
+			<div id="pic3"> </div>
+			<div id="pic4"> </div>
+		</div>
+	<style>	
+			#text{
+			        color:yellow;
+				font-size:40px;
+				text-shadow:90px orange;
+				text-transform:rotate(180deg);
+				margin-top:145px;
+				margin-left:431px;
+				position:absolute;
+				font-weight:bold;
+			     }
+			a:visited{ 
+				color:yellow;
+				}
+			body{
+				background-image:url('85.jpeg');
+				background-size:cover;
+				background-repeat:no-repeat;
+	             	 }
+			#sun{
+				width:600px;
+				height:370px;
+				display:block;
+				border-radius:60%;
+				margin-left:320px;
+				margin-top:1px;
+				transition:0.3s all ease;
+				box-shadow:70px 70px 70px #ffd700;
+				background-color:#ff4500;
+				position:absolute;
+				transform:rotate(180deg);
+				}
+			#pic{          
+				width:270px;
+				height:170px;
+				border-radius:30%;
+				display:block;
+				background-image:url('7.jpeg');
+				margin-left:500px;
+				margin-top:1px;
+				transition:1s all ease;
+				box-shadow:2px 2px 2px 2px;
+				transform:translate(5px,5px);
+				position:absolute;
+				}	
+			#pic1{          
+				width:270px;
+				height:170px;
+				border-radius:30%;
+				display:block;
+				background-image:url('14.jpeg');
+				margin-left:280px;
+				margin-top:0px;
+				transition:1s all ease;
+				position:absolute;
+				box-shadow:2px 2px 2px 2px;
+				transform:translate(5px,5px);
+				transform:rotate(-5deg);
+				}	
+			#pic2{          
+				width:270px;
+				height:150px;
+				border-radius:30%;
+				display:block;
+				background-image:url('13.jpeg');
+				margin-left:760px;
+				margin-top:0px;
+				transition:1s all ease;
+				position:absolute;
+				box-shadow:2px 2px 2px 2px;
+				transform:translate(5px,5px);
+				transform:rotate(5deg);
+				}	
+			#pic3{          
+				width:270px;
+				height:170px;
+				border-radius:30%;
+				display:block;
+				background-image:url('9.jpeg');
+				margin-left:420px;
+				margin-top:750px;
+				transition:1s all ease;
+				position:absolute;
+				box-shadow:2px 2px 2px 2px;
+				transform:translate(5px,5px);
+				transform:rotate(-5deg);
+				}	
+			#pic4{          
+				width:200px;
+				height:170px;
+				border-radius:30%;
+				display:block;
+				background-image:url('8.jpeg');
+				margin-left:650px;
+				margin-top:750px;
+				transition:1s all ease;
+				position:absolute;
+				box-shadow:2px 2px 2px 2px;
+				transform:translate(5px,5px);
+				transform:rotate(6deg);
+				}	
+
+
+
+		</style>
+	</body>
+</html>
+
+		
+

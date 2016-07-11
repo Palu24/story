@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<div id="b"> </div>
+		<div id="c"> </div>
+		<div id="d"></div>
+		<div id="e"> </div>
+		<div id="f"> </div>
+		<div id="g"> </div>
+		<div id="h"> </div>
+		<div id="i"><pre>
+I remember....
+When I opened my eyes,
+Your sun-washed face was tense,
+‘It’s a girl’, you said,
+But your sadness didn’t make sense.. 
+
+I remember....
+When I started walking,
+Your shoulders had stooped down a bit,
+I thought it was to hold me from falling,
+But it was the burden, wasn’t it?
+
+I remember....
+When you gave my brothers more food,
+I ate my hunger and slept at night
+Even that couldn’t make you happy,
+I just could not do anything right..
+
+I remember....
+When I played with the tattered doll,
+You married mine to the other,
+I thought you were playing with me,
+Before you gave yours to him forever..
+
+I remember....
+When he hit me, abused me, bruised me,
+I thought you’d come take me away,
+I knew you heard me from across the wall,
+That was where I wept all day..
+
+I remember....
+When I screamed that night,
+My eyes were wet but no one else cried,
+Relief screamed in your silent eyes,
+The night your little girl had died.</pre></div>
+		<div id="j"> <strong>CHILD MARRIAGE</strong></div>
+		<div id="a"> </div>
+
+	<style>	
+		#a{
+			width:450px;
+			height:730px;
+			background-image:url("image.jpeg");
+			}
+		#b{
+			width:825px;
+			height:730px;
+			background-color:#CDBA96;
+			position:absolute;
+			margin-left:455px;
+		}
+		#c{
+			width:200px;
+			height:200px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:0px;
+			margin-left:455px;
+			background-image:url("001.jpeg");
+			background-size:190px 199px;
+			position:absolute;
+			box-shadow:5px 5px 5px #9C661F;
+			}
+		#d{
+			width:200px;
+			height:200px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:205px;
+			margin-left:455px;
+			background-image:url("099.jpeg");
+			background-size:206px 199px;
+			position:absolute;
+			box-shadow:5px 5px 5px #9C661F;
+			}
+		#e{
+			width:200px;
+			height:200px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:410px;
+			margin-left:455px;
+			background-image:url("769.jpeg");
+			background-size:190px 199px;
+			position:absolute;
+			box-shadow:5px 5px 5px #9C661F;
+			}
+		#f{
+			width:200px;
+			height:200px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:0px;
+			margin-left:1070px;
+			background-image:url("899.jpeg");
+			background-size:210px 210px;
+			position:absolute;
+			box-shadow:5px 5px 5px #9C661F;
+			}
+		#g{
+			width:200px;
+			height:200px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:205px;
+			margin-left:1070px;
+			background-image:url("900.jpeg");
+			background-size:190px 199px;
+			position:absolute;
+			box-shadow:5px 5px 5px #9C661F;
+			}
+		#h{
+			width:200px;
+			height:200px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:410px;
+			margin-left:1070px;
+			background-image:url("oo.jpeg");
+			background-size:210px 219px;
+			position:absolute;
+			box-shadow:5px 5px 5px #9C661F;
+			}
+		#i{
+			width:400px;
+			height:592px;
+			background-color:#9C661F;
+			position:absolute;
+			margin-left:664px;
+			margin-top:20px;
+			font-size:12.9px;
+			color:#FFFACD
+		}
+		#j{
+			width:810px;
+			height:100px;
+			background-color:#FFFACD;
+			position:absolute;
+			margin-left:460px;
+			margin-top:620px;
+			font-size:76px;
+			color:#9C661F;
+		}
+			
+		</style>
+
+</body>
+</html>

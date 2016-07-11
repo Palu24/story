@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<div id="box13"><pre>
+    B
+    E
+    G
+    G
+    A
+    R
+    S
+</pre> </div>
+		<div id="box12"><pre>
+At the end of the street,                              
+Fighting the hailstorms,
+with no food nor light,
+with no beds nor clothes.
+
+He shivers in the cold,
+and burns under the sun,
+There he lies...
+At the end of the street.
+
+To disembark on a journey,
+A journey to his destined end.
+Patiently he awaits for
+ his life to end,
+     Dear oh dear,
+there lies the beggar,
+he waits for the scraps of food,
+     Fighter he is,
+even a soldier too.</pre>
+</div>
+<div id="box14"><pre>
+Yet there he is,
+offering his delicacies,
+to a stray with rumbling 
+tummy too,
+with a smile in his face
+ and twinkle in his eyes,
+the beggar lived his life.
+
+At the end of the street,
+There was a beggar,
+who's life is not worth living,
+filthy and dirty he was,
+yet he embraced life in a special
+waiting patiently for his time,
+His patience is yet to be granted
+
+so there he is..
+At the end of street,
+lays a lonely beggar...
+</pre>
+</div>
+		<div id="box2"> </div>
+		<div id="box3"> </div>
+		<div id="box4"> </div>
+		<div id="box5"> </div>
+		<div id="box6"> </div>
+		<div id="box7"> </div>
+		<div id="box8"> </div>
+		<div id="box9"> </div>
+		<div id="box10"> </div>
+		<div id="box11"> </div>
+		<div id="box1"> </div>
+		<div id="box"> </div>
+	<style>
+		#box13{
+			width:340px;
+			height:0px;
+			color:#CD1076;
+			margin-left:205px;
+			margin-top:188px;
+			position:absolute;
+			font-size:48px;
+			font-weight:bold;
+			text-shadow:10px 10px yellow;
+			}
+		#box12{
+			width:400px;
+			height:475px;
+			background-color:#CD8500;
+			margin-left:490px;
+			margin-top:188px;
+			position:absolute;
+			font-size:18px;
+			color:#FFFACD;
+			}
+		#box14{
+			width:400px;
+			height:475px;
+			background-color:#CD8500;
+			margin-left:890px;
+			margin-top:188px;
+			position:absolute;
+			font-size:18px;
+			color:#FFFACD;
+			}
+		#box{
+			width:200px;
+			height:475px;
+			background-color:#E0FFFF;
+			}
+		#box1{
+			width:1130px;
+			height:180px;
+			background-color:#FFF68F;
+			}
+		#box2{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:10px;
+			background-image:url("5.jpeg");
+			background-size:160px 160px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box3{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:170px;
+			background-image:url("10.jpeg");
+			background-size:160px 180px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box4{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:330px;
+			background-image:url("90.jpeg");
+			background-size:170px 170px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box5{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:490px;
+			background-image:url("91.jpeg");
+			background-size:140px 160px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box6{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:650px;
+			background-image:url("92.jpeg");
+			background-size:150px 160px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box7{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:810px;
+			background-image:url("94.jpeg");
+			background-size:160px 160px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box8{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:970px;
+			background-image:url("98.jpeg");
+			background-size:160px 180px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box9{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:330px;
+			margin-left:10px;
+			background-image:url("99.jpeg");
+			background-size:160px 160px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box10{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:170px;
+			margin-left:10px;
+			background-image:url("100.jpeg");
+			background-size:160px 160px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+		#box11{
+			width:150px;
+			height:150px;
+			border-radius:50%;
+			display:inline-block;
+			margin-top:490px;
+			margin-left:10px;
+			background-image:url("130.jpeg");
+			background-size:160px 150px;
+			position:absolute;
+			box-shadow:5px 5px 5px white;
+			}
+	</style>
+	</body>
+</html>
+
+
